@@ -1,8 +1,8 @@
-# Udemy Course Data Analysis
+# 📊 Udemy Course Data Analysis
 
 An exploratory data analysis project on Udemy course data to identify trends in course popularity, subscriber behavior, pricing, and category performance.
 
-## Project Overview
+## 📌 Project Overview
 
 This project analyzes **3,678 Udemy course records** across four categories:
 
@@ -13,7 +13,7 @@ This project analyzes **3,678 Udemy course records** across four categories:
 
 The main objective was to explore subscriber trends and compare the popularity of **paid vs. free courses** across different course categories.
 
-## Objectives
+## 🎯 Objectives
 
 * Identify the most popular course categories
 * Compare subscriber trends between paid and free courses
@@ -21,7 +21,7 @@ The main objective was to explore subscriber trends and compare the popularity o
 * Explore category-level performance
 * Visualize patterns and trends in the dataset
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 * Python
 * Pandas
@@ -30,7 +30,7 @@ The main objective was to explore subscriber trends and compare the popularity o
 * Seaborn
 * Jupyter Notebook
 
-## Data Analysis Process
+## 🔄 Data Analysis Process
 
 1. Data loading and inspection
 2. Data cleaning and preprocessing
@@ -41,20 +41,20 @@ The main objective was to explore subscriber trends and compare the popularity o
 7. Data visualization
 8. Interpretation of findings
 
-## Key Findings
+## 📊 Key Findings
 
-### Web Development had the highest total subscribers
+### 🌐 Web Development Had the Highest Total Subscribers
 
 Web Development recorded **nearly 8 million total subscribers**, making it the category with the highest subscriber count among the four analyzed categories.
 
-### Free courses had higher average subscribers
+### 🆓 Free Courses Had Higher Average Subscribers
 
 * **Free courses:** ~11,500 average subscribers
 * **Paid courses:** ~2,400 average subscribers
 
 The analysis showed a substantial difference in average subscriber counts between free and paid courses.
 
-## Visualizations
+## 📈 Visualizations
 
 The project includes visualizations for:
 
@@ -64,17 +64,17 @@ The project includes visualizations for:
 * Course popularity
 * Category-level performance
 
-## Conclusion
+## 💡 Conclusion
 
 This project demonstrates how Python-based data analysis can be used to explore a real-world dataset, identify patterns, compare different groups, and communicate insights through visualization.
 
 The analysis highlights differences in subscriber behavior between paid and free Udemy courses and shows how course categories vary in overall popularity.
 
-## Author
+## 👤 Author
 
 **Md. Ove Rahman**
 
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
-* GitHub: https://github.com/ovir18
-* LinkedIn: https://linkedin.com/in/md-ove-rahman-394049242
+* **GitHub:** https://github.com/ovir18
+* **LinkedIn:** https://linkedin.com/in/md-ove-rahman-394049242
